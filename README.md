@@ -4,6 +4,8 @@ By making some fundamental assumptions, we were able to develop a Leslie matrix 
 of bobcats, and we were able to run 100 trials of a simulation to create a best and worst case scenario given that there is a 4% change of a catastrophe 
 every year. The script file contains the MATLAB code that we worked on for the project, and the draft file contains the report that we developed. 🐱
 
+---
+
 Methods and Models Used:
 - Leslie matricies 
 - Stochastic modeling
